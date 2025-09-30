@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 1141 database
 
 - 姓名: 廖振廷
@@ -6,7 +5,7 @@
 - 系級: 科技116
 =======
 # 🍔 美食訂單系統 (Flask + MySQL)
-
+images/demo.png
 一個使用 Flask + MySQL 開發的簡單點餐系統，支援：
 - 新增訂單
 - 修改訂單
