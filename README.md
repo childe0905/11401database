@@ -8,7 +8,8 @@
 
 ## HW1: 🍔 美食訂單系統 (Flask + MySQL)
 
-![系統示範](images/demo.png)
+
+<img src="images/demo.png" alt="系統示範" width="600">
 
 一個使用 **Flask + MySQL** 開發的簡單點餐系統，支援：
 - 新增訂單
