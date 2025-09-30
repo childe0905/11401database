@@ -8,7 +8,6 @@
 
 ## HW1: 🍔 美食訂單系統 (Flask + MySQL)
 
-
 <img src="images/demo.png" alt="系統示範" width="600">
 
 一個使用 **Flask + MySQL** 開發的簡單點餐系統，支援：
@@ -23,6 +22,6 @@
 ### 📦 安裝與執行
 
 1. 下載專案
-```bash
-git clone https://github.com/childe0905/11401database.git
-cd food_order_system
+   ```bash
+   git clone https://github.com/childe0905/11401database.git
+   cd food_order_system
