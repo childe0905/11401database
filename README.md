@@ -17,11 +17,13 @@
 - 顯示訂單紀錄
 - 自動計算總營收
 
----
-
 ### 📦 安裝與執行
 
 1. 下載專案
    ```bash
    git clone https://github.com/childe0905/11401database.git
    cd food_order_system
+python3 -m venv venv
+source venv/bin/activate   # Mac/Linux
+venv\Scripts\activate      # Windows
+pip install -r requirements.txt
