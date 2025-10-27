@@ -64,7 +64,7 @@ python app.py
 
 <img src="images/demo_hw2.png" alt="系統示範" width="500"> <img src="images/demo_hw2-2.png" alt="系統示範" width="500">
 
-🎬 [HW2 示範影片（點我觀看）](https://youtu.be/your-hw2-demo-link)
+🎬 [HW2 示範影片（點我觀看）](https://youtu.be/jl4w44F1gVQ)
 
 ---
 
