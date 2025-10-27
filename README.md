@@ -60,7 +60,7 @@ python app.py
 
 ---
 
-### 🎥 系統示範
+ 🎥 系統示範
 
 <img src="images/demo_hw2.png" alt="系統示範" width="500"> <img src="images/demo_hw2-2.png" alt="系統示範" width="500">
 
