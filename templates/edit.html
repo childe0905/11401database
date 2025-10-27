@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <title>✏️ 修改訂單</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+  <h1>✏️ 修改訂單</h1>
+
+  <!-- 修改訂單表單 -->
+  <form method="POST">
+    <label>客人姓名：</label>
+    <input type="text" name="customer" value="{{ order.customer }}" required>
+
+    <label>餐點名稱：</label>
+    <select name="item" id="itemSelect" required>
+      {% for m in menu %}
+        <option value="{{ m.id }}" {% if m.name == order.item %}selected{% endif %}>
+          {{ m.name }}
+        </option>
+      {% endfor %}
+    </select>
+    <span id="priceDisplay" class="price-info"></span>
+
+    <label>數量：</label>
+    <input type="number" name="quantity" id="quantityInput" value="{{ order.quantity }}" required>
+    <span id="subtotalDisplay" class="subtotal"></span>
+
+    <button type="submit">更新訂單</button>
+  </form>
+
+  <br>
+  <a href="{{ url_for('index') }}">⬅ 返回訂單列表</a>
+
+  <!-- JavaScript -->
+  <script>
+    // 餐點價格表 (用模板把 menu 傳進來)
+    const prices = {
+      {% for m in menu %}
+        "{{ m.id }}": {{ m.price }},
+      {% endfor %}
+    };
+
+    const select = document.getElementById("itemSelect");
+    const priceDisplay = document.getElementById("priceDisplay");
+    const quantityInput = document.getElementById("quantityInput");
+    const subtotalDisplay = document.getElementById("subtotalDisplay");
+
+    function updateDisplay() {
+      const itemId = select.value;
+      const price = prices[itemId];
+      priceDisplay.textContent = "價格：" + price + " 元";
+
+      const quantity = parseInt(quantityInput.value) || 0;
+      subtotalDisplay.textContent = quantity > 0 ? "小計：" + (price * quantity) + " 元" : "";
+    }
+
+    select.addEventListener("change", updateDisplay);
+    quantityInput.addEventListener("input", updateDisplay);
+    updateDisplay(); // 初始化顯示價格與小計
+  </script>
+</body>
+</html>
