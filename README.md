@@ -6,7 +6,7 @@
 
 ---
 
-## HW1: 🍔 美食訂單系統 (Flask + MySQL)
+## HW1:  美食訂單系統 (Flask + MySQL)
 
 <img src="images/demo.png" alt="系統示範" width="600">
 
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 # 4️⃣ 啟動伺服器
 python app.py
 ```
-## HW2: 🍱 美食訂單系統進階版 (Flask + MySQL + CRUD 強化)
+## HW2:  美食訂單系統進階版 (Flask + MySQL + CRUD 強化)
 
 > 第二次作業延伸自 HW1，新增完整 CRUD 功能與資料庫關聯操作。  
 > 使用 Flask + MySQL 實作，讓使用者可以管理訂單、更新狀態與查詢統計。
