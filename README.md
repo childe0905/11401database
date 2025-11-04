@@ -104,7 +104,7 @@ food_order_system_v2/
 #### 🧑‍💻[程式碼](https://github.com/childe0905/student-performance)
 🎬 [HW3 示範影片（點我觀看）](https://youtu.be/jl4w44F1gVQ)
 
-<img src="images/demo_hw3.png" alt="demo_hw3" width="600">
+<img src="images/demo_hw3.png" alt="系統示範" width="600">
 
 ### 🧩 功能特色
 | 功能 | 說明 |
