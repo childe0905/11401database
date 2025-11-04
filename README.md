@@ -100,7 +100,8 @@ food_order_system_v2/
 <details>
 <summary>📙 HW3：學生成績管理系統 (Node.js + MongoDB + Render 部署)</summary>
 
-🖥 [線上展示網址](https://student-performance-mxq9.onrender.com)
+###🖥 [線上展示網址](https://student-performance-mxq9.onrender.com)
+###[程式碼](https://github.com/childe0905/student-performance)
 
 <img src="images/demo_hw3.png" alt="系統示範" width="600">
 
