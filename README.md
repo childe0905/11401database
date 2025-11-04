@@ -7,7 +7,7 @@
 ---
 
 ## 🧭 作業紀錄總覽
-> 點擊每一項可展開詳細內容 👇
+> 點擊每一項可展開詳細內容 👇  
 
 ---
 
@@ -18,18 +18,48 @@
 
 🎥 [HW1 影片連結（點我觀看）](https://youtu.be/WG6yLcLKp0M)
 
+---
+
 ### 🧩 功能特色
-- 新增、修改、刪除訂單  
+
+- 新增訂單  
+- 修改訂單  
+- 刪除訂單  
 - 顯示訂單紀錄  
 - 自動計算總營收  
 
+---
+
 ### 🧱 技術架構
+
 | 類別 | 技術 |
 |------|------|
 | 前端 | HTML、CSS、Jinja2 |
 | 後端 | Flask (Python) |
 | 資料庫 | MySQL |
+| 工具 | MySQL Workbench、VS Code |
 
+---
+
+### ⚙️ 安裝與執行步驟
+
+```bash
+# 1️⃣ 下載專案
+git clone https://github.com/childe0905/11401database.git
+cd food_order_system
+
+# 2️⃣ 建立虛擬環境
+python3 -m venv venv
+source venv/bin/activate     # Mac/Linux
+venv\Scripts\activate        # Windows
+
+# 3️⃣ 安裝套件
+pip install -r requirements.txt
+
+# 4️⃣ 啟動伺服器
+python app.py
+
+```
 </details>
 
 ---
@@ -50,6 +80,19 @@
 | 🗑 刪除訂單 | 移除資料 |
 | 💰 營收統計 | 自動加總金額 |
 
+### ⚙️ 專案結構
+```bash
+food_order_system_v2/
+├── app.py                # Flask 主程式
+├── templates/
+│   ├── index.html        # 主頁面（顯示與新增訂單）
+│   ├── edit.html         # 編輯訂單頁面
+│   └── login.html        # 登入/註冊頁面（選用）
+├── static/
+│   └── styles.css        # CSS 樣式
+├── requirements.txt      # 套件清單
+└── README_HW2.md         # 此說明文件
+```
 </details>
 
 ---
@@ -57,7 +100,7 @@
 <details>
 <summary>📙 HW3：學生成績管理系統 (Node.js + MongoDB + Render 部署)</summary>
 
-🖥 [線上展示網址](https://student-performance.onrender.com)
+🖥 [線上展示網址](https://student-performance-mxq9.onrender.com)
 
 <img src="images/demo_hw3.png" alt="系統示範" width="600">
 
