@@ -102,7 +102,7 @@ food_order_system_v2/
 
 #### 🖥 [線上展示網址](https://student-performance-mxq9.onrender.com)
 #### 🧑‍💻[程式碼](https://github.com/childe0905/student-performance)
-🎬 [HW3 示範影片（點我觀看）](https://youtu.be/jl4w44F1gVQ)
+🎬 [HW3 示範影片（點我觀看）](https://youtu.be/gFxIUUu6Wcs)
 
 <img src="images/demo_hw3.png" alt="系統示範" width="600">
 
