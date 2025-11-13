@@ -6,8 +6,8 @@
 
 ---
 
-## 🧭 作業紀錄總覽
-> 點擊每一項可展開詳細內容 👇  
+## 🧭 Assignment Overview
+> Click each item to expand the details 👇
 
 ---
 
@@ -92,7 +92,7 @@ food_order_system_v2/
 ├── requirements.txt      # Dependency list
 └── README_HW2.md         # Documentation file
 ```
-<details>
+</details>
 
 ---
 
