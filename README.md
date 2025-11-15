@@ -123,11 +123,12 @@ food_order_system_v2/
 | Deployment | Render |
 
 </details>
+
 ---
 
-</details>
+<details>
+<summary>📝 DataBase System Final Project Proposal</summary>
 
-<summary> DataBase System Final Project Proposal</summary>
-🎬 [Project Proposal Video (Click to Watch)](https://youtu.be/MBxQ7GudyyA)]
+🎬 **[Final Project Demo Video (Click to Watch)](https://youtu.be/MBxQ7GudyyA)**
 
 </details>
