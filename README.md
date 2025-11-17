@@ -138,7 +138,9 @@ food_order_system_v2/
 <details>
 <summary>📙 HW4: Student Performance Management System (Node.js + MongoDB + Render Deployment</summary>
 
-🎬 **[Final Project Demo Video (Click to Watch)](https://youtu.be/MBxQ7GudyyA)**
+#### 🖥 [Live Demo](https://student-performance-mxq9.onrender.com)
+#### 🧑‍💻 [Source Code](https://github.com/childe0905/student-performance-multiple-delete-)
+🎬 [HW3 Demo Video (Click to Watch)](https://youtu.be/gFxIUUu6Wcs)
 
 </details>
 
