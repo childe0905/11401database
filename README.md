@@ -136,7 +136,7 @@ food_order_system_v2/
 ---
 
 <details>
-<summary>📙 HW4: Student Performance Management System (Node.js + MongoDB + Render Deployment</summary>
+<summary>📙 HW4: Student Performance Management System add the multiple-delete feature </summary>
 
 #### 🖥 [Live Demo](https://student-performance-multiple-delete.onrender.com)
 #### 🧑‍💻 [Source Code](https://github.com/childe0905/student-performance-multiple-delete-)
