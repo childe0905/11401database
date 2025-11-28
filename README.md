@@ -149,6 +149,27 @@ food_order_system_v2/
 <details>
 <summary>📖 DataBase System Final Project </summary>
 
+<details>
+<summary>🎵 Final Project: Moodify (AI Music Recommendation System)</summary>
+
+<br>
+
+#### 🖥️ [Live Demo](https://你的前端網址.onrender.com)
+#### 👨‍💻 [frontend Code](https://github.com/childe0905/moodify_frontend)
+#### 👨‍💻 [backend Code](https://github.com/childe0905/moodify_backend)
+#### 🎬 [Demo Video](https://youtu.be/你的影片連結) 
+
+> **Moodify** is a full-stack web application that recommends music based on user emotions using the Spotify API and the Valence-Arousal model. It features mood history tracking and data visualization.
+
+**🛠️ Tech Stack & Features**
+* **Frontend:** React (Vite), Recharts (Data Visualization), Axios
+* **Backend:** Flask (Python), RESTful API
+* **Database:** MongoDB Atlas (User Auth & History Log)
+* **Integration:** Spotify Web API (Audio Features Analysis)
+* **Deployment:** Render
+
+</details>
+
 
 
 </details>
