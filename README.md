@@ -147,10 +147,7 @@ food_order_system_v2/
 ---
 
 <details>
-<summary>📖 DataBase System Final Project </summary>
-
-<details>
-<summary>🎵 Final Project: Moodify (AI Music Recommendation System)</summary>
+<summary>📖 DataBase System Final Project : Moodify</summary>
 
 <br>
 
@@ -167,9 +164,6 @@ food_order_system_v2/
 * **Database:** MongoDB Atlas (User Auth & History Log)
 * **Integration:** Spotify Web API (Audio Features Analysis)
 * **Deployment:** Render
-
-</details>
-
 
 
 </details>
