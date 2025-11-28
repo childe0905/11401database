@@ -151,10 +151,11 @@ food_order_system_v2/
 
 <br>
 
-#### 🖥️ [Live Demo](https://你的前端網址.onrender.com)
-#### 👨‍💻 [frontend Code](https://github.com/childe0905/moodify_frontend)
-#### 👨‍💻 [backend Code](https://github.com/childe0905/moodify_backend)
-#### 🎬 [Demo Video](https://youtu.be/你的影片連結) 
+#### 🖥️ [Frontend Website (Live Demo)](https://moodify-frontend-zhvm.onrender.com/)
+#### ☁️ [Backend Website (API)](https://moodify-backend-cj0a.onrender.com/)
+
+#### 👨‍💻 [Frontend Source Code](https://github.com/childe0905/moodify_frontend)
+#### 👨‍💻 [Backend Source Code](https://github.com/childe0905/moodify_backend)
 
 > **Moodify** is a full-stack web application that recommends music based on user emotions using the Spotify API and the Valence-Arousal model. It features mood history tracking and data visualization.
 
@@ -164,7 +165,6 @@ food_order_system_v2/
 * **Database:** MongoDB Atlas (User Auth & History Log)
 * **Integration:** Spotify Web API (Audio Features Analysis)
 * **Deployment:** Render
-
 
 </details>
 
