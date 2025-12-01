@@ -150,7 +150,7 @@ food_order_system_v2/
 <summary>📖 DataBase System Final Project : Moodify</summary>
 
 <br>
-🎬 [Final Project Demo Video (Click to Watch)](https://youtu.be/WLl0THXb8no)
+🎬 **[Final Project Demo Video (Click to Watch)](https://youtu.be/WLl0THXb8no)**
 
 #### 🖥️ [Frontend Website (Live Demo)](https://moodify-frontend-zhvm.onrender.com/)
 #### ☁️ [Backend Website (API)](https://moodify-backend-cj0a.onrender.com/)
